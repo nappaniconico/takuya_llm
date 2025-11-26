@@ -1,0 +1,37 @@
+{
+    "AI拓也/urikuru-oss_V":{
+        "max_gpu_layer":33,
+        "context_size": 32768,
+        "urls":[
+            ""
+        ]
+    },
+    "AI拓也/majikuru-oss_V":{
+        "max_gpu_layer":33,
+        "context_size": 32768,
+        "urls":[
+            ""
+        ]
+    },
+    "AI拓也/osuchitsu-oss_V":{
+        "max_gpu_layer":33,
+        "context_size": 32768,
+        "urls":[
+            ""
+        ]
+    },
+    "AI拓也/osuchitsu-oss_L":{
+        "max_gpu_layer":33,
+        "context_size": 32768,
+        "urls":[
+            ""
+        ]
+    },
+    "AI拓也/osuchitsu-oss_S":{
+        "max_gpu_layer":33,
+        "context_size": 32768,
+        "urls":[
+            ""
+        ]
+    }
+}
